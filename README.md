@@ -1,5 +1,3 @@
-<img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/>
-
 <hr>
 
 <h1 align="center">👋, I'm Niklas Marcussen</h1>
