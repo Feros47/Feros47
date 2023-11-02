@@ -26,7 +26,7 @@
  
 - 🔥 Proficient in **Python**
 
-- 🌱 I’m currently learning **React** for my front-end and using **Spring** for backend
+- 🌱 I’m currently learning **React** for my front-end and using **Node** for backend
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feros47?tab=repositories](https://github.com/Feros47?tab=repositories)
 
@@ -79,7 +79,6 @@
     <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-pink.svg?logo=vite"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-green.svg?logo=spring-boot&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
