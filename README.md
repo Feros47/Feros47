@@ -1,7 +1,7 @@
 <hr>
 
 <h1 align="center">👋, I'm Niklas Marcussen</h1>
-<h3 align="center">A passionate current CompSci student at the Department of Computer Science (DIKU), Copenhagen University.</h3>
+<h3 align="center">A passionate CompSci student at the Department of Computer Science (DIKU), Copenhagen University.</h3>
 
 <!-- My links -->
 <p align="center">
