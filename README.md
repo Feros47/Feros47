@@ -11,7 +11,7 @@
   <a href="https://github.com/Feros47"><img alt="logo" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
   <a href="https://www.instagram.com/marcussen_niklas/"><img alt="logo" src="https://img.shields.io/badge/-Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge"/>
   <a href="https://www.youtube.com/channel/UCWf53JkOtDx16pvm_bEPmHg"><img alt="logo" src="https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"/>
-  <a href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"/>
+  <a href="https://discord.com/users/317062000201170944"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"/>
 </p>
 <p align="center">
   <a href="discord.com"><img alt="logo" src="https://komarev.com/ghpvc/?username=Feros47&style=for-the-badge"/>
