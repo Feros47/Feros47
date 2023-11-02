@@ -23,8 +23,6 @@
 
  <hr>
 <!-- Coding joke image and our details -->
-
-<img style="object-fit: cover;" src="https://github.com/Feros47/Feros47/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="583.2" height="162" />
  
 - 🔥 Proficient in **Java**
 
