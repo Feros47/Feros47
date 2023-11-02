@@ -103,7 +103,7 @@
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Unity" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fHr87ejy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Unity-100000%3Fstyle%3Dfor-the-badge%26logo%3Dunity%26logoColor%3Dwhite"></a>
+      <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white" style=border-radius="7px"></a>
   </p>
 </details>
 
