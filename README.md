@@ -24,9 +24,9 @@
  <hr>
 <!-- Coding joke image and our details -->
  
-- 🔥 Proficient in **Java**
+- 🔥 Proficient in **Python**
 
-- 🌱 I’m currently learning **React** for my front-end and using Spring for backend
+- 🌱 I’m currently learning **React** for my front-end and using **Spring** for backend
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feros47?tab=repositories](https://github.com/Feros47?tab=repositories)
 
