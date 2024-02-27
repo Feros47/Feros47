@@ -12,7 +12,7 @@
   <a href="https://discord.com/users/317062000201170944"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"/>
 </p>
 <p align="center">
-  <a href="discord.com"><img alt="logo" src="https://komarev.com/ghpvc/?username=Feros47&style=for-the-badge"/>
+  <a href=""><img alt="logo" src="https://komarev.com/ghpvc/?username=Feros47&style=for-the-badge"/>
   <img alt="followers" title="Følg mig på Github" src="https://custom-icon-badges.demolab.com/github/followers/Feros47?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Feros47?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Feros47?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </p>
