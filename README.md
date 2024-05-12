@@ -26,7 +26,7 @@
  
 - 🔥 Proficient in **Python**
 
-- 🌱 I’m currently learning ***C#*** for Software Development and ***Flutter*** for App Development
+- 🌱 I’m currently learning ***C#*** for Software Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feros47?tab=repositories](https://github.com/Feros47?tab=repositories)
 
