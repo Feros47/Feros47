@@ -24,9 +24,9 @@
  <hr>
 <!-- Coding joke image and our details -->
  
-- 🔥 Proficient in **Python**
+- 🔥 Proficient in **Python** and **C#**
 
-- 🌱 I’m currently learning ***C#*** for Software Development
+- 🌱 I’m currently learning ***React Native***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feros47?tab=repositories](https://github.com/Feros47?tab=repositories)
 
