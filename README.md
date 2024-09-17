@@ -26,7 +26,7 @@
  
 - 🔥 Proficient in **Python** and **C#**
 
-- 🌱 I’m currently learning ***React Native***
+- 🌱 I’m currently learning ***React Native***, ***C***, and ***Flutter***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feros47?tab=repositories](https://github.com/Feros47?tab=repositories)
 
